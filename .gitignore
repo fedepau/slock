@@ -1,2 +1,4 @@
 slock
 *.o
+*.orig
+*.rej
